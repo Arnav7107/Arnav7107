@@ -3,9 +3,9 @@
 Aspiring Full Stack Developer
 
 I am a Computer Science undergrad at VIT Chennai. I have a profound interest in developing elegant and seamless websites. I love to acquire new knowledge and enhance my skills as a coder with each passing day.
-* 🌍  I'm based in India*
-* ✉️  You can contact me at [arnavverma345@gmail.com](mailto:arnavverma345@gmail.com)*
-* 🧠  I'm learning Node.js and MongoDB* 
+* 🌍  I'm based in India
+* ✉️  You can contact me at [arnavverma345@gmail.com](mailto:arnavverma345@gmail.com)
+* 🧠  I'm learning Node.js and MongoDB
 * 🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills
